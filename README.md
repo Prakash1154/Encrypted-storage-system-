@@ -9,7 +9,7 @@ Methdology used:
      refer https://www.tutorialspoint.com/python/python_gui_programming.ht
 
 2) Cryptography AES algorithm:
-              refer https://www.tutorialspoint.com/cryptography/advanced_encryption_standard.htm
+     refer https://www.tutorialspoint.com/cryptography/advanced_encryption_standard.htm
               
 Now to run the program and check output simply Download the file and run the programm file mainpythonfile.py
 
@@ -18,3 +18,5 @@ Now to run the program and check output simply Download the file and run the pro
    2)Now again run the programm mainpythonfile.py  and signin using your id and password 
               
    3)Now you can perform all the encryption and decryption operation.
+ 
+At last there is OUTPUT  folder which contains all the outputs and GUI screenshot please open the file of OUTPUT folder then you will understand what does the programm. 
